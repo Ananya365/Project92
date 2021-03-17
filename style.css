@@ -1,0 +1,61 @@
+body
+{
+	background-image: url(back.png);
+	background-repeat: no-repeat;
+
+}
+#send-bnt{
+	width: 100px; 
+	height: 40px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	background-color: #00177c;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-style: none;
+	border-radius: 4px;
+	font-size: large;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 10px;
+	}
+#login-bnt{
+	width: 120px; 
+	height: 40px;
+	margin-top: 25px;
+	background-color: #00177c;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-style: none;
+	border-radius: 4px;
+	font-size: large;
+}
+#name1 , #name2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #7847ff;
+padding: 10px;
+float: none;
+text-align: left;
+}
